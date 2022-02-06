@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://toledo-demo.squarespace.com/home</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2019-08-28</lastmod>
+    <image:image>
+      <image:loc>https://static1.squarespace.com/static/5d66dbe9b08d470001a15803/t/5d9229430eea6224a82f3891/1572454417081/illustration-1.jpg</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+  </url>
+</urlset>
+
